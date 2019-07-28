@@ -1,0 +1,11 @@
+C:\Users\chzcho\WebScraping\bin\Debug\netcoreapp2.2\WebScraping.deps.json
+C:\Users\chzcho\WebScraping\bin\Debug\netcoreapp2.2\WebScraping.runtimeconfig.json
+C:\Users\chzcho\WebScraping\bin\Debug\netcoreapp2.2\WebScraping.runtimeconfig.dev.json
+C:\Users\chzcho\WebScraping\bin\Debug\netcoreapp2.2\WebScraping.dll
+C:\Users\chzcho\WebScraping\bin\Debug\netcoreapp2.2\WebScraping.pdb
+C:\Users\chzcho\WebScraping\obj\Debug\netcoreapp2.2\WebScraping.csprojAssemblyReference.cache
+C:\Users\chzcho\WebScraping\obj\Debug\netcoreapp2.2\WebScraping.csproj.CoreCompileInputs.cache
+C:\Users\chzcho\WebScraping\obj\Debug\netcoreapp2.2\WebScraping.AssemblyInfoInputs.cache
+C:\Users\chzcho\WebScraping\obj\Debug\netcoreapp2.2\WebScraping.AssemblyInfo.cs
+C:\Users\chzcho\WebScraping\obj\Debug\netcoreapp2.2\WebScraping.dll
+C:\Users\chzcho\WebScraping\obj\Debug\netcoreapp2.2\WebScraping.pdb
