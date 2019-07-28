@@ -5,6 +5,7 @@ using OpenQA.Selenium.Chrome;
 using System.Collections.Generic;
 
 
+
 class WebScrape
 {
     static void Main(string[] args){
@@ -33,18 +34,20 @@ class WebScrape
                 {
                     foreach(var score in matchRow.ElementAt(z).FindElements(By.CssSelector("td[style^='font-size:16px;width:30px']")))
                     {
+                        //Find Text Value of HTML Element
                         var output = score.GetAttribute("innerHTML");
                         Console.WriteLine(output);
 
-
-
+                        //Store to Excel/Database 
                     }
                 }
-
                 driver.Navigate().Back();
-                tournament = driver.FindElements(By.TagName("b"));
-            }            
 
+                //Dependency Reset 
+                tournament = driver.FindElements(By.TagName("b"));
+            }
+        //Reset Objects after DOM Resets
+        tournament = driver.FindElements(By.TagName("b"));
         }
         Console.Read();
 
