@@ -4,6 +4,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System.Collections.Generic;
 
+
 class WebScrape
 {
     static void Main(string[] args){
@@ -25,15 +26,6 @@ class WebScrape
                 item.Click();
 
                 //Select the Scores in Group Stage
-                IWebElement test = driver.FindElement(By.CssSelector("td[style^='font-size:16px;width:30px']"));
-                Console.WriteLine(test.GetAttribute("innerHTML"));
-
-                // var testOutput1 = test.GetAttribute("td[style^='font-size:16px;width:30px']");
-                // Console.WriteLine(testOutput1);
-                // var testOutput = test.Text;
-                // Console.WriteLine(testOutput);  
-
-
                 IReadOnlyCollection <IWebElement> matchRow = driver.FindElements(By.ClassName("bracket-popup-body-match-container"));
                 Console.WriteLine(matchRow.Count);  
 
@@ -42,7 +34,9 @@ class WebScrape
                     foreach(var score in matchRow.ElementAt(z).FindElements(By.CssSelector("td[style^='font-size:16px;width:30px']")))
                     {
                         var output = score.GetAttribute("innerHTML");
-                        Console.WriteLine(output);`
+                        Console.WriteLine(output);
+
+
 
                     }
                 }
