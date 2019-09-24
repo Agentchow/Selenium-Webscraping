@@ -9,3 +9,5 @@ Will need to replace the driver respective to the version being currently utiliz
 Make sure to manually reinstall the ChromeWebDriver after Chrome updates. 
 
 Need to implement extraneous algo
+
+Vscode -> Install C# -> Download .NET SDK -> Update Driver -> Run
