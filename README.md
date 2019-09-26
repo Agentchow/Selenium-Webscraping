@@ -4,7 +4,12 @@ Does not auto-update.
 
 
 1.) Download the SDK + Framework - https://aka.ms/dotnet-download
-2.) Update Chrome Driver - https://chromedriver.storage.googleapis.com/index.html?path=76.0.3809.68/
+
+2.) Replace netcore app within Selenium-Webscraping -> bin -> debug
+
+3.) Install locally
+
+4.) Update Chrome Driver - https://chromedriver.storage.googleapis.com/index.html?path=76.0.3809.68/
 
 Will need to replace the driver respective to the version being currently utilized by the machine. 
 
