@@ -1,13 +1,21 @@
 ﻿# Selenium-Webscraping
 
-Does not auto-update.
+Does not auto-update. This documentation is for a VScode IDE.
 
 
 1.) Download the SDK + Framework - https://aka.ms/dotnet-download
 
-2.) Replace netcore app within Selenium-Webscraping -> bin -> debug
+2.) Install Nuget Package Manager (Extension)
 
-3.) Terminal | CD into Selenium project | dotnet new console -> dotnet build
+2.) Delete old Dotnet Builds 
+Selenium-Webscraping/obj/debug
+  -Delete all old file versions
+Selenium-Webscraping/.vscode
+  -Delete all old file versions
+  
+3.) Terminal | CD into Selenium project | dotnet new console 
+
+4.) Control+Shift+P -> Nuget Package Manager (add package) -> Install Selenium.Webdriver (newest version)
 
 3.) Install locally
 
