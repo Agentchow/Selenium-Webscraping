@@ -7,6 +7,8 @@ Does not auto-update.
 
 2.) Replace netcore app within Selenium-Webscraping -> bin -> debug
 
+3.) Terminal | CD into Selenium project | dotnet new console -> dotnet build
+
 3.) Install locally
 
 4.) Update Chrome Driver - https://chromedriver.storage.googleapis.com/index.html?path=76.0.3809.68/
