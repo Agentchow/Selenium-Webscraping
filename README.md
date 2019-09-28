@@ -18,7 +18,7 @@ Does not auto-update. This documentation is for a Stack of Windows/VSCode.
 
 **End of Optional Manual Updating** 
 
-4.) Install Nuget Package Manager (Extension) | Install C# (Extension)
+4.) VSCode -> Extension -> Install Nuget Package Manager (Extension) | Install C# (Extension)
 
 5.) Control+Shift+P -> Nuget Package Manager (add package) -> Install Selenium.Webdriver (newest version)
 
