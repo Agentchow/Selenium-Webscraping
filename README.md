@@ -28,6 +28,7 @@ Make sure to manually reinstall the ChromeWebDriver after Chrome updates.
 Vscode -> Install C# -> Download .NET SDK -> Update Driver -> Run
 
 To-Do
+
 -Need to implement extraneous algo
 
 -Need to add excel support/SQL Support
