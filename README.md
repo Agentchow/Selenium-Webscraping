@@ -19,8 +19,11 @@ Stack
     
   Selenium-Webscraping/bin/debug |
     -Delete all old file versions
+    
+   Selenium-Webscraping/WebScrapping.csproj |
+    -Delete old file
   
-3.) Terminal | CD into Selenium project | dotnet new console 
+3.) Terminal | CD into Selenium project | dotnet restore 
 
 **End of Optional Manual Updating** 
 
