@@ -1,6 +1,6 @@
 ﻿# Selenium-Webscraping
 
-Does not auto-update. This documentation is for a VScode IDE.
+Does not auto-update. This documentation is for a Stack of Windows/VSCode.
 
 
 1.) Download the SDK + Framework - https://aka.ms/dotnet-download
