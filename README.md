@@ -16,6 +16,9 @@ Stack
   
   Selenium-Webscraping/.vscode |
     -Delete all old file versions
+    
+  Selenium-Webscraping/bin/debug |
+    -Delete all old file versions
   
 3.) Terminal | CD into Selenium project | dotnet new console 
 
