@@ -5,7 +5,7 @@ Does not auto-update. This documentation is for a Stack of Windows/VSCode.
 
 1.) Download the SDK + Framework - https://aka.ms/dotnet-download
 
-2.) Install Nuget Package Manager (Extension)
+2.) Install Nuget Package Manager (Extension) | Install C# (Extension)
 
 3.) Delete old Dotnet Builds 
 Selenium-Webscraping/obj/debug
