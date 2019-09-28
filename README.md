@@ -5,7 +5,7 @@ Does not auto-update. This documentation is for a Stack of Windows/VSCode.
 Stack
 -Netcore App 2.2 | Selenium WebDriver | VScode/NugetPM/C# | Excel 
 
-**This is for updating to the new .Net Framework (Optional)** 
+**This is for updating to new .Net versions(Optional)** 
 
 1.) Download the SDK + Framework - https://aka.ms/dotnet-download
 
