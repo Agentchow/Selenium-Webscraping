@@ -11,6 +11,7 @@ Stack
 
 2.) Delete old Dotnet Builds 
 
+
   Selenium-Webscraping/obj/debug |
     -Delete all old file versions
   
@@ -22,6 +23,7 @@ Stack
     
    Selenium-Webscraping/WebScrapping.csproj |
     -Delete old file
+  
   
 3.) Terminal | CD into Selenium project | dotnet restore 
 
