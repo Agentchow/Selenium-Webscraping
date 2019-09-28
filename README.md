@@ -7,7 +7,7 @@ Stack
 
 **This is for updating to new .Net versions(Optional)** 
 
-1.) Download the SDK + Framework - https://aka.ms/dotnet-download
+1.) Download the core SDK + Dev Pack Framework - https://aka.ms/dotnet-download
 
 2.) Delete old Dotnet Builds 
 
