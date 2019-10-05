@@ -37,6 +37,8 @@ Stack
 
 7.) CD intoUpdate Chrome Driver - https://chromedriver.storage.googleapis.com/index.html?path=76.0.3809.68/
 
+8.) Change pathing to reflect local pathing- C:\Users\cchow\Documents\Coding Projects\Selenium-Webscraping\bin\Debug\netcoreapp2.2
+
 
 Vscode -> Install C# -> Download .NET SDK -> Update Driver -> Run
 
