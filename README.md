@@ -1,5 +1,7 @@
 ﻿# Selenium-Webscraping
 
+Will need to modify to make part of Arbitraging Sport Betting Line Exchanges
+
 Does not auto-update. This documentation is for a Stack of Windows/VSCode.
 
 Stack
