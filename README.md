@@ -41,6 +41,7 @@ Stack
 
 8.) Change pathing to reflect local pathing- C:\Users\cchow\Documents\Coding Projects\Selenium-Webscraping\bin\Debug\netcoreapp2.2
 
+9.) 
 
 Vscode -> Install C# -> Download .NET SDK -> Update Driver -> Run
 
